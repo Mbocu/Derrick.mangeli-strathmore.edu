@@ -52,7 +52,6 @@ void displayMenu() {
     cout << "7. Exit" << endl;
     cout << "Select an option: ";
 }
-
 void addStudent() {
     Student student;
     cout << "Enter Firstname: ";
